@@ -127,3 +127,5 @@ Custom animation scripts: function.js, love.js
 
 Personal use only (birthday surprise / greeting page).
 If you plan to reuse commercially, review the licenses of included libraries and assets.
+
+<img width="1033" height="604" alt="image" src="https://github.com/user-attachments/assets/5dd75b0f-c294-4183-91aa-f1958f26c195" />
